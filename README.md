@@ -63,7 +63,15 @@ StockAnalyzer/
 
 ---
 
-Esse trecho está formatado para renderizar corretamente no GitHub, com blocos de código destacados e divisões claras entre as seções. Copie e cole diretamente no seu arquivo `README.md`. Se precisar de mais ajuda, é só pedir! 😊
+### **Correções Aplicadas**
+1. **Blocos de Código**:
+   - Usei o marcador ` ```bash ` nos trechos de código para destacar corretamente os comandos.
+2. **Estrutura do Projeto**:
+   - Reformatei o diagrama de pastas para garantir que ele fique visível e bem estruturado.
+3. **Markdown Geral**:
+   - Adicionei espaçamento consistente e reformulei seções para evitar problemas de renderização.
+
+Esse README agora deve ser renderizado corretamente no GitHub. Teste e me avise se precisar de mais ajustes! 🚀
 
 
 

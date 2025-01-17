@@ -48,7 +48,7 @@ StockAnalyzer/
 ├── LICENSE                  # Licença do projeto
 ├── README.md                # Documentação principal
 ├── requirements.txt         # Lista de dependências
-
+´´´
 ---
 
 ## **Como Usar**

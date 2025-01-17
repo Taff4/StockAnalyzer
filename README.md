@@ -24,6 +24,27 @@ O **StockAnalyzer** é uma ferramenta Python projetada para analisar dados finan
 
 ## **Status do Projeto**
 🚧 Este projeto está em desenvolvimento. Algumas funcionalidades podem estar incompletas ou sujeitas a alterações.
+## **Como Usar**
+
+### **1. Pré-requisitos**
+- Tenha o Python 3.7 ou superior instalado em seu sistema.
+- Instale as dependências do projeto executando o seguinte comando no terminal:
+  ```bash
+  pip install -r requirements.txt
+  python src/main.py
+  python src/gui.py
+
+---
+
+### **Correções Aplicadas**
+1. **Blocos de Código**:
+   - Usei o marcador ` ```bash ` nos trechos de código para destacar corretamente os comandos.
+2. **Estrutura do Projeto**:
+   - Reformatei o diagrama de pastas para garantir que ele fique visível e bem estruturado.
+3. **Markdown Geral**:
+   - Adicionei espaçamento consistente e reformulei seções para evitar problemas de renderização.
+
+Esse README agora deve ser renderizado corretamente no GitHub. Teste e me avise se precisar de mais ajustes! 🚀
 
 ---
 
@@ -51,27 +72,6 @@ StockAnalyzer/
 
 ---
 
-## **Como Usar**
-
-### **1. Pré-requisitos**
-- Tenha o Python 3.7 ou superior instalado em seu sistema.
-- Instale as dependências do projeto executando o seguinte comando no terminal:
-  ```bash
-  pip install -r requirements.txt
-  python src/main.py
-  python src/gui.py
-
----
-
-### **Correções Aplicadas**
-1. **Blocos de Código**:
-   - Usei o marcador ` ```bash ` nos trechos de código para destacar corretamente os comandos.
-2. **Estrutura do Projeto**:
-   - Reformatei o diagrama de pastas para garantir que ele fique visível e bem estruturado.
-3. **Markdown Geral**:
-   - Adicionei espaçamento consistente e reformulei seções para evitar problemas de renderização.
-
-Esse README agora deve ser renderizado corretamente no GitHub. Teste e me avise se precisar de mais ajustes! 🚀
 
 
 
